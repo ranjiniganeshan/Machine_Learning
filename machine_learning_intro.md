@@ -29,7 +29,7 @@ Supervised learning models can make predictions after seeing lots of data with t
 Two of the most common use cases for supervised learning are regression and classification.
 
  
-     --- Regression
+- Regression
  A regression model predicts a numeric value. For example, a weather model that predicts the amount of rain, in inches or millimeters, is a regression model.
 
 See the table below for more examples of regression models:
