@@ -38,7 +38,7 @@ Two of the most common use cases for supervised learning are regression and clas
 - Classification
 Classification models predict the likelihood that something belongs to a category. Unlike regression models, whose output is a number, classification models output a value that states whether or not something belongs to a particular category. For example, classification models are used to predict if an email is spam or if a photo contains a cat.
 
-Classification models are divided into two groups: binary classification and multiclass classification. Binary classification models output a value from a class that contains only two values, for example, a model that outputs either rain or no rain. Multiclass classification models output a value from a class that contains more than two values, for example, a model that can output either rain, hail, snow, or sleet.
+ Classification models are divided into two groups: binary classification and multiclass classification. Binary classification models output a value from a class that contains only two values,    for example, a model that outputs either rain or no rain. Multiclass classification models output a value from a class that contains more than two values, for example, a model that can output   either rain, hail, snow, or sleet.
 
 
 
