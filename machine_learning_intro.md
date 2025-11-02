@@ -32,7 +32,6 @@ Two of the most common use cases for supervised learning are regression and clas
 - Regression
  A regression model predicts a numeric value. For example, a weather model that predicts the amount of rain, in inches or millimeters, is a regression model.
 
- See the table below for more examples of regression models:
  <img width="1029" height="227" alt="Screenshot 2025-11-02 at 7 03 11 AM" src="https://github.com/user-attachments/assets/d7b3a12d-58ce-4495-84aa-ca32ac1fba27" />
 
 
