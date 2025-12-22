@@ -52,4 +52,8 @@ That's unsupervised learning—the machine discovers hidden patterns on its own.
 The most popular way unsupervised learning works is through  **clustering**. The computer groups similar data points together into "clusters" based on how close or alike they are.
 
 
+<img width="407" height="352" alt="image" src="https://github.com/user-attachments/assets/450d7e98-b075-4945-82c0-5ea79c9189c4" />
+
+
+
 
