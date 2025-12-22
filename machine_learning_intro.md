@@ -42,5 +42,14 @@ Two of the most common use cases for supervised learning are regression and clas
   Classification models are divided into two groups: binary classification and multiclass classification. Binary classification models output a value from a class that contains only two values,    for example, a model that outputs either rain or no rain. Multiclass classification models output a value from a class that contains more than two values, for example, a model that can output   either rain, hail, snow, or sleet.
 
 
+## Unsupervised learning
+
+Unsupervised learning is a type of machine learning where the computer is given a bunch of data without any labels or correct answers. It has to figure out patterns, structures, or groupings in the data all by itself
+
+example: Imagine dumping a huge pile of random fruits (apples, oranges, bananas, grapes) on the table in front of a kid who's never seen them before. You don't say "these are red and round, group them as apples." The kid just looks at shapes, colors, sizes, and naturally sorts them into piles of similar fruits.
+That's unsupervised learning—the machine discovers hidden patterns on its own.
+
+The most popular way unsupervised learning works is through ### clustering. The computer groups similar data points together into "clusters" based on how close or alike they are.
+
 
 
