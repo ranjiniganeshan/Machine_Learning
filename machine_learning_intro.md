@@ -49,7 +49,7 @@ Unsupervised learning is a type of machine learning where the computer is given 
 example: Imagine dumping a huge pile of random fruits (apples, oranges, bananas, grapes) on the table in front of a kid who's never seen them before. You don't say "these are red and round, group them as apples." The kid just looks at shapes, colors, sizes, and naturally sorts them into piles of similar fruits.
 That's unsupervised learning—the machine discovers hidden patterns on its own.
 
-The most popular way unsupervised learning works is through ###clustering. The computer groups similar data points together into "clusters" based on how close or alike they are.
+The most popular way unsupervised learning works is through** ###clustering**. The computer groups similar data points together into "clusters" based on how close or alike they are.
 
 
 
