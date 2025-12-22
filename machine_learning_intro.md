@@ -55,5 +55,35 @@ The most popular way unsupervised learning works is through  **clustering**. The
 <img width="407" height="352" alt="image" src="https://github.com/user-attachments/assets/450d7e98-b075-4945-82c0-5ea79c9189c4" />
 
 
+## Reinforcement
+
+Reinforcement learning models make predictions by getting rewards or penalties based on actions performed within an environment. A reinforcement learning system generates a policy that defines the best strategy for getting the most rewards.
+
+Reinforcement learning is used to train robots to perform tasks, like walking around a room, and software programs like AlphaGo to play the game of Go.
+
+## Generative AI
+
+Generative AI
+Generative AI is a class of models that creates content from user input. For example, generative AI can create unique images, music compositions, and jokes; it can summarize articles, explain how to perform a task, or edit a photo.
+
+Generative AI can take a variety of inputs and create a variety of outputs, like text, images, audio, and video. It can also take and create combinations of these. For example, a model can take an image as input and create an image and text as output, or take an image and text as input and create a video as output.
+
+We can discuss generative models by their inputs and outputs, typically written as "type of input"-to-"type of output." For example, the following is a partial list of some inputs and outputs for generative models:
+
+Text-to-text
+Text-to-image
+Text-to-video
+Text-to-code
+Text-to-speech
+Image and text-to-image
+
+
+
+<img width="978" height="713" alt="image" src="https://github.com/user-attachments/assets/7d0ff66f-ff29-4f62-80e3-89ad623612c2" />
+
+<img width="960" height="675" alt="image" src="https://github.com/user-attachments/assets/85f5f7f5-4e97-4ec6-bc8d-274bce4473d3" />
+
+
+
 
 
